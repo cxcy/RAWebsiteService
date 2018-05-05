@@ -3,7 +3,7 @@
 
 ## 接口
 | Func| URL| Action| Body | 
-|:-------:| :----------------------------------------|:--------|:----------|
+|:-------| :----------------------------------------|:--------|:----------|
 | 注册 | http://www.private-elves.xyz/account/signup/| Post | <br/>username:dv2</br> <br/>password:dv2</br> <br/>password_confirm:dv2</br> <br/>email:dv2@dv2.com</br> |
 | 登录 | http://www.private-elves.xyz/account/login/	 | Post|<br/>username:dv1</br> <br/>password:dv1</br> |
 | 退出 | http://www.private-elves.xyz/account/logout/ | Post |  |
